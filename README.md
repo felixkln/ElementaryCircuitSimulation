@@ -2,6 +2,10 @@
 
 This repository is the implementation in Java of an elementary circuit simulator, computing an output voltage from a source voltage, passive components (resistor, inductor, and capacitor), and their parameters, using Euler's method.
 
+### Requirements
+
+It is preferable to execute step 1 with IntelliJ IDEA, but any other IDE should do the job. Make sure to have a Java Development Kit (JDK) installed.
+
 ## Step 1 : build and run ```Main.java```
 
 Choose the voltage source (rectangular, triangular, sine wave, Heaviside step function, etc.) and its characteristics (starting time, frequency, duty cycle, etc.).
